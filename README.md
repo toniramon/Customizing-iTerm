@@ -6,7 +6,7 @@
 
 `brew cask install iterm2`
 
-- oh my zsh
+- Oh My ZSH
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
@@ -23,17 +23,22 @@ iTerm2 > Preferences > Profiles > Change Font > Meslo LG S for Powerline
 
 Now let’s configure your ZSH theme settings:
 
-`cd ~
-nano .zshrc`
+~~~ 
+cd ~
+nano .zshrc 
+~~~
 
 `ZSH_THEME="agnoster"`
 
 
-9. Save you changes (CTRL-X if you’re using Nano, continue editing forever if you’re using Vi or Vim).
+Save you changes (CTRL-X if you’re using Nano).
 
-10. Quit and restart Terminal.
+Quit and restart iTerm.
 
-11. You should now see your new theme in place.
+Voilà, magic happen.
 
+
+
+## vsCode with custom terminal.
 
 ** now install it on vsCode.
