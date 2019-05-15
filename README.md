@@ -1,13 +1,13 @@
 # Reminder: How to custom iTerm for MacOS.
 
-Prerequisites
+## Prerequisites
 - iTerm2
-brew cask install iterm2
+`brew cask install iterm2`
 - oh my zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 Download Fonts
-https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20S%20Regular%20for%20Powerline.ttf
+https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20S%20Regular%20for%20Powerline.ttf?raw=true
 
 
 Installation
