@@ -53,3 +53,4 @@ On the top bar find: Editor: Font Family
 * Editor: Font Family -> Meslo LG S for Powerline
 * Terminal > Integrated: Font Family -> Meslo LG S for Powerline
 * Terminal > External: Osx Exec: iterm.app
+* Terminal > Integrated > Shell: Osx -> /bin/zsh
