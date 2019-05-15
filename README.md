@@ -41,13 +41,15 @@ Voilà, magic happen.
 
 
 
-## vsCode with custom terminal.
+## VSCode with custom terminal.
 
-Once we have dont all the previous steps we can start customizing vsCode:
+Once we have dont all the previous steps we can start customizing VSCode:
 
 - Change font:
-vsCode > Preferences > Configurations > User Config
+
+VSCode > Preferences > Configurations > User Config
+
 On the top bar find: Editor: Font Family
-1 - Editor: Font Family -> Meslo LG S for Powerline
-2 - Terminal > Integrated: Font Family -> Meslo LG S for Powerline
-3 - Terminal > External: Osx Exec: iterm.app
+* Editor: Font Family -> Meslo LG S for Powerline
+* Terminal > Integrated: Font Family -> Meslo LG S for Powerline
+* Terminal > External: Osx Exec: iterm.app
